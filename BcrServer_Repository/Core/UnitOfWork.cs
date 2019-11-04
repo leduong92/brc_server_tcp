@@ -21,9 +21,9 @@ namespace BcrServer_Repository
                 string dbName = Properties.Settings.Default.DB_NAME;
 
                 if (dbName.ToUpper() == "LIVE")
-                    connectionString = "Server = 10.203.192.193; Port = 5432; Database = qimlive; User Id = qimlive; Password = qimlive;";
+                    connectionString = "Server = ip; Port = 5432; Database = database; User Id = user; Password = pass;";
                 else if (dbName.ToUpper() == "TRAINING")
-                    connectionString = "Server = 10.203.192.193; Port = 5432; Database = qim_training; User Id = qim_training; Password = qim_training;";
+                    connectionString = "Server = ip; Port = 5432; Database = database; User Id = user; Password = pass;";
                 else
                 {
                     MessageBox.Show("DB Name incorrect. Please check...", "Thong bao");
