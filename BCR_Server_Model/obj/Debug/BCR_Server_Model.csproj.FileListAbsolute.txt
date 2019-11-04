@@ -1,0 +1,9 @@
+C:\Users\11709931\Desktop\BCR_Server\BCR_Server_Model\bin\Debug\BCR_Server_Model.dll
+C:\Users\11709931\Desktop\BCR_Server\BCR_Server_Model\bin\Debug\BCR_Server_Model.pdb
+C:\Users\11709931\Desktop\BCR_Server\BCR_Server_Model\obj\Debug\BCR_Server_Model.csprojResolveAssemblyReference.cache
+C:\Users\11709931\Desktop\BCR_Server\BCR_Server_Model\obj\Debug\BCR_Server_Model.dll
+C:\Users\11709931\Desktop\BCR_Server\BCR_Server_Model\obj\Debug\BCR_Server_Model.pdb
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\bin\Debug\BCR_Server_Model.dll
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\bin\Debug\BCR_Server_Model.pdb
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\obj\Debug\BCR_Server_Model.dll
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\obj\Debug\BCR_Server_Model.pdb

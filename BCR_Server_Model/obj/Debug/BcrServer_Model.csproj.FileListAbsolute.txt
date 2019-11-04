@@ -1,0 +1,100 @@
+F:\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+F:\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+F:\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+F:\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+F:\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+D:\004-Project\02-Project\07-MyProject\01-WinForm\014-BarcodeSolution\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\100-KeyenceSolution_New\ForPC\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\100-KeyenceSolution_New\ForPC\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\100-KeyenceSolution_New\ForPC\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\100-KeyenceSolution_New\ForPC\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\100-KeyenceSolution_New\ForPC\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_Server\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_Server\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - My\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - My\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - My\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - My\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread(Khoa)\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread(Khoa)\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread(Khoa)\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread(Khoa)\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread(Khoa)\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - Copy\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - Copy\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - Copy\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - Copy\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - Copy\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-WAREHOUSE\BCR_ServerThread - KHOA\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\BCR_ServerThread - KHOA\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\BCR_ServerThread - KHOA\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\BCR_ServerThread - KHOA\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA - Hieu\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA - Hieu\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA - Hieu\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA - Hieu\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA - Hieu\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - KHOA\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+\\v020\System\01-Projects\03-VCtool\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+\\v020\System\01-Projects\03-VCtool\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+\\v020\System\01-Projects\03-VCtool\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+\\v020\System\01-Projects\03-VCtool\app_vnn\11-WAREHOUSE\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+\\v020\System\01-Projects\03-VCtool\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - My hang cho\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - My hang cho\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - My hang cho\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - My hang cho\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -  (Official Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -  (Official Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -  (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -  (Official Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version) - Copy\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version) - Copy\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version) - Copy\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version) - Copy\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version) - Copy\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Chan noi den cho 3 ma hang dac biet\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Chan noi den cho 3 ma hang dac biet\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Chan noi den cho 3 ma hang dac biet\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Chan noi den cho 3 ma hang dac biet\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Chan noi den cho 3 ma hang dac biet\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Waiting OS\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Waiting OS\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Waiting OS\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Waiting OS\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - Waiting OS\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -khoa\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -khoa\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -khoa\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread -khoa\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)_khoa_20191015\BCR_Server_Model\bin\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)_khoa_20191015\BCR_Server_Model\bin\Debug\BcrServer_Model.pdb
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)_khoa_20191015\BCR_Server_Model\obj\Debug\BcrServer_Model.csprojResolveAssemblyReference.cache
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)_khoa_20191015\BCR_Server_Model\obj\Debug\BcrServer_Model.dll
+P:\app_vnn\11-Warehouse\New\ForPC\BCR_ServerThread - (Offical Version)_khoa_20191015\BCR_Server_Model\obj\Debug\BcrServer_Model.pdb

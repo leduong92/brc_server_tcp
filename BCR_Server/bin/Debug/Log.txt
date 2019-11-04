@@ -1,0 +1,85 @@
+
+  Log Entry: 10:06:04 AM Wednesday, September 11, 2019
+Log Message: Input string was not in a correct format.
+             M302S04 - CheckWaitingData
+============================================================================
+
+  Log Entry: 11:17:57 AM Wednesday, September 11, 2019
+Log Message: SELECT a.box_no, a.item, pallete_no, c.cust_user_main_stk_loc, max(a.lot_no || '' || CASE WHEN a.box_seq_or IS NULL OR a.box_seq_or ='' THEN a.box_seq ELSE a.box_seq_or END ) as lot, sum(a.qty) as qty FROM TD_BOX_JOBTAG a INNER JOIN TD_BOX_INFO b ON a.box_no = b.box_no INNER JOIN TR_LBL_INFO_NBCS c ON a.starting_job = c.job_order_no  WHERE a.BOX_NO = 'VB0001106618   ' GROUP BY 1,2,3,4 ORDER BY 5 DESC
+             ERROR: 42804: CASE types character and integer cannot be matched
+============================================================================
+
+  Log Entry: 11:44:33 AM Wednesday, September 11, 2019
+Log Message: The RPC server is unavailable
+             M419
+============================================================================
+
+  Log Entry: 11:48:18 AM Wednesday, September 11, 2019
+Log Message: The type initializer for 'BcrServer_Helper.Message' threw an exception.
+             M419
+============================================================================
+
+  Log Entry: 11:48:19 AM Wednesday, September 11, 2019
+Log Message: The type initializer for 'BcrServer_Helper.Message' threw an exception.
+             TCP Server
+============================================================================
+
+  Log Entry: 11:50:28 AM Wednesday, September 11, 2019
+Log Message: The type initializer for 'BcrServer_Helper.Message' threw an exception.
+             M419
+============================================================================
+
+  Log Entry: 11:50:28 AM Wednesday, September 11, 2019
+Log Message: The type initializer for 'BcrServer_Helper.Message' threw an exception.
+             TCP Server
+============================================================================
+
+  Log Entry: 11:55:35 AM Wednesday, September 11, 2019
+Log Message: The type initializer for 'BcrServer_Helper.Message' threw an exception.
+             M419
+============================================================================
+
+  Log Entry: 11:55:35 AM Wednesday, September 11, 2019
+Log Message: The type initializer for 'BcrServer_Helper.Message' threw an exception.
+             TCP Server
+============================================================================
+
+  Log Entry: 10:36:19 AM Wednesday, September 18, 2019
+Log Message: Input string was not in a correct format.
+             M419
+============================================================================
+
+  Log Entry: 7:41:49 AM Tuesday, September 24, 2019
+Log Message: Input string was not in a correct format.
+             M419
+============================================================================
+
+  Log Entry: 1:47:15 PM Tuesday, October 8, 2019
+Log Message: Input string was not in a correct format.
+             M419
+============================================================================
+
+  Log Entry: 1:47:42 PM Tuesday, October 8, 2019
+Log Message: Input string was not in a correct format.
+             M419
+============================================================================
+
+  Log Entry: 1:49:10 PM Tuesday, October 8, 2019
+Log Message: Input string was not in a correct format.
+             M419
+============================================================================
+
+  Log Entry: 1:57:16 PM Tuesday, October 8, 2019
+Log Message: Input string was not in a correct format.
+             M419
+============================================================================
+
+  Log Entry: 2:58:06 PM Tuesday, October 15, 2019
+Log Message: Column 'box_no' does not belong to table .
+             M300
+============================================================================
+
+  Log Entry: 2:59:56 PM Tuesday, October 15, 2019
+Log Message: SELECT PCL_NO FROM TD_BOX_DELIVERY WHERE WAITING_WH_STATUS = '1' AND INCOME_STATUS = '1' AND PCL_NO in (''LOR1201910150036', 'LOR1201910150043', 'LOR1201910150044', 'LOR1201910150041', 'LOR1201910150042', 'LOR1201910150047', 'LOR1201910150045', 'LOR1201910150040', 'LOR1201910150034', 'LOR1201910150046', 'LOR1201910150039', 'LOR1201910150048', 'LOR1201910150038', 'LOR1201910150037', 'LOR1201910150035'')
+             ERROR: 42601: syntax error at or near "LOR1201910150036"
+============================================================================

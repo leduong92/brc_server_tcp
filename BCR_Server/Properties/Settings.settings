@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BcrServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PORT_NO" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">43211</Value>
+    </Setting>
+    <Setting Name="SERVER_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.203.83.5</Value>
+    </Setting>
+    <Setting Name="READ_TIME_OUT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="WRITE_TIME_OUT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="SEND_BUFFER_SIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20480</Value>
+    </Setting>
+    <Setting Name="RECEIVE_BUFFER_SIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20480</Value>
+    </Setting>
+    <Setting Name="DB_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LIVE</Value>
+    </Setting>
+    <Setting Name="VERSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.11.0.3</Value>
+    </Setting>
+    <Setting Name="TITLE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VNN BARCODE SERVER FOR WAREHOUSE</Value>
+    </Setting>
+    <Setting Name="PRINTER_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PATH_EXECUTE" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
